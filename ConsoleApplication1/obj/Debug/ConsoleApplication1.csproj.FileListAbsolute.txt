@@ -1,0 +1,6 @@
+D:\DR\wejsciowka08-01\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\DR\wejsciowka08-01\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\DR\wejsciowka08-01\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\DR\wejsciowka08-01\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\DR\wejsciowka08-01\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\DR\wejsciowka08-01\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
